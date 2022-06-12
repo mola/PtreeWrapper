@@ -1,5 +1,5 @@
 # PtreeWrapper
-Wrapper for booost ptree for easy usage
+Wrapper for boost ptree for easy usage
 
 DataTree tempTree;
 
